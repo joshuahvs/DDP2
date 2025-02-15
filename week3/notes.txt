@@ -1,0 +1,3 @@
+klo array kayak {1,2,{3,4,5}} ini gabisa, karena array 1 dimensi
+
+tapi klo array dua dimensi kyk {{1,2}, {3,4}} ini bisa
